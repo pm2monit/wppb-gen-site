@@ -23,7 +23,8 @@
     "node": "10.15.x"
   },
   "script": {
-    "start": "node server.js"
+    "build": "node server",
+    "start": "node server"
   },
   "repository": {
     "type": "git",
